@@ -15,8 +15,6 @@
 
 ###
 
-- 🔭 I’m currently working on **njrat**
-
 - 🌱 I’m currently learning **Java**
 
 - 🤝 I’m looking for help with **Java**
