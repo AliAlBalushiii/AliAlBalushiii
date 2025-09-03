@@ -13,22 +13,6 @@
   <img height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFobncwZzRwOHI3MjFsazdsYnZ1djdxa3liYjFkc3M3OXo5bGpwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UiUcePrcsgS5Qp0DUj/giphy.gif"  />
 </div>
 
-###
-
-- 🌱 I’m currently learning **Java**
-
-- 🤝 I’m looking for help with **Java**
-
-- 👨‍💻 All of my projects are available at [my github](my github)
-
-- 💬 Ask me about **CyberSecurity**
-
-- 📫 How to reach me **ali9236xx@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ali-al-balushi-125ab3333](https://www.linkedin.com/in/ali-al-balushi-125ab3333)
-
-- ⚡ Fun fact **🔑 "123456" is still one of the most common passwords! 🤦‍♂️😂**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
